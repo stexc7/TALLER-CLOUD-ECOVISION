@@ -1,0 +1,61 @@
+﻿fecha,solicitud,estado,codigo_http,latencia_ms,detalle
+2026-06-28T20:37:07,1,OK,201,5.42,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-001"",""valor"":20.37,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:08,2,OK,201,24.78,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-002"",""valor"":20.74,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:08,3,OK,201,37.0,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-003"",""valor"":21.11,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:08,4,OK,201,11.45,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-004"",""valor"":21.48,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:08,5,OK,201,10.59,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-005"",""valor"":21.85,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:08,6,OK,201,40.05,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-006"",""valor"":22.22,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:09,7,OK,201,31.63,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-007"",""valor"":22.59,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:09,8,OK,201,10.99,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-008"",""valor"":22.96,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:09,9,OK,201,12.65,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-009"",""valor"":23.33,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:09,10,OK,201,12.86,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-010"",""valor"":23.7,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:09,11,OK,201,8.6,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-011"",""valor"":24.07,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:09,12,OK,201,9.85,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-012"",""valor"":24.44,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:10,13,OK,201,37.04,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-013"",""valor"":24.81,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:10,14,OK,201,35.37,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-014"",""valor"":25.18,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:10,15,OK,201,38.63,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-015"",""valor"":25.55,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:10,16,OK,201,32.98,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-016"",""valor"":25.92,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:10,17,OK,201,11.72,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-017"",""valor"":26.29,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:10,18,OK,201,33.95,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-018"",""valor"":26.66,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:11,19,OK,201,13.25,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-019"",""valor"":27.03,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:11,20,OK,201,12.55,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-020"",""valor"":27.4,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:11,21,OK,201,34.22,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-021"",""valor"":27.77,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:11,22,OK,201,11.13,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-022"",""valor"":28.14,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:11,23,OK,201,29.12,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-023"",""valor"":28.51,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:11,24,OK,201,11.66,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-024"",""valor"":28.88,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:12,25,OK,201,19.62,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-025"",""valor"":29.25,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:12,26,OK,201,10.6,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-026"",""valor"":29.62,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:12,27,OK,201,15.33,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-027"",""valor"":29.99,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:12,28,OK,201,29.13,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-028"",""valor"":30.36,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:12,29,OK,201,36.38,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-029"",""valor"":30.73,""version"":""1.0-estable""}
+"
+2026-06-28T20:37:12,30,OK,201,40.52,"{""mensaje"":""Dato almacenado correctamente"",""sensor_id"":""IOT-030"",""valor"":31.1,""version"":""1.0-estable""}
+"
