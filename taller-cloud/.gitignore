@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+ecovision.db
+ecovision.log
+metricas.csv
