@@ -1,0 +1,68 @@
+2026-06-28 20:55:10,989 | INFO | Inicio de EcoVision IA API | version=2.0-fallida
+2026-06-28 20:55:11,010 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-28 20:55:11,010 | INFO | [33mPress CTRL+C to quit[0m
+2026-06-28 20:57:05,930 | INFO | 127.0.0.1 - - [28/Jun/2026 20:57:05] "GET /health HTTP/1.1" 200 -
+2026-06-28 21:04:24,724 | INFO | Dato guardado | sensor=IOT-001 | pool=1/10
+2026-06-28 21:04:24,725 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:24] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:24,886 | INFO | Dato guardado | sensor=IOT-002 | pool=2/10
+2026-06-28 21:04:24,886 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:24] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:25,068 | INFO | Dato guardado | sensor=IOT-003 | pool=3/10
+2026-06-28 21:04:25,068 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:25] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:25,241 | INFO | Dato guardado | sensor=IOT-004 | pool=4/10
+2026-06-28 21:04:25,241 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:25] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:25,401 | INFO | Dato guardado | sensor=IOT-005 | pool=5/10
+2026-06-28 21:04:25,402 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:25] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:25,560 | INFO | Dato guardado | sensor=IOT-006 | pool=6/10
+2026-06-28 21:04:25,560 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:25] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:25,721 | INFO | Dato guardado | sensor=IOT-007 | pool=7/10
+2026-06-28 21:04:25,721 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:25] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:25,904 | INFO | Dato guardado | sensor=IOT-008 | pool=8/10
+2026-06-28 21:04:25,904 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:25] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:26,077 | INFO | Dato guardado | sensor=IOT-009 | pool=9/10
+2026-06-28 21:04:26,077 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:26] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:26,249 | INFO | Dato guardado | sensor=IOT-010 | pool=10/10
+2026-06-28 21:04:26,250 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:26] "[35m[1mPOST /sensor HTTP/1.1[0m" 201 -
+2026-06-28 21:04:26,417 | ERROR | Connection pool exhausted | Too many connections | solicitud=11 | pool=10/10
+2026-06-28 21:04:26,417 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:26] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:26,589 | ERROR | Connection pool exhausted | Too many connections | solicitud=12 | pool=10/10
+2026-06-28 21:04:26,589 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:26] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:26,761 | ERROR | Connection pool exhausted | Too many connections | solicitud=13 | pool=10/10
+2026-06-28 21:04:26,761 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:26] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:26,916 | ERROR | Connection pool exhausted | Too many connections | solicitud=14 | pool=10/10
+2026-06-28 21:04:26,916 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:26] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:27,071 | ERROR | Connection pool exhausted | Too many connections | solicitud=15 | pool=10/10
+2026-06-28 21:04:27,071 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:27] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:27,249 | ERROR | Connection pool exhausted | Too many connections | solicitud=16 | pool=10/10
+2026-06-28 21:04:27,249 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:27] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:27,423 | ERROR | Connection pool exhausted | Too many connections | solicitud=17 | pool=10/10
+2026-06-28 21:04:27,423 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:27] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:27,596 | ERROR | Connection pool exhausted | Too many connections | solicitud=18 | pool=10/10
+2026-06-28 21:04:27,596 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:27] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:27,768 | ERROR | Connection pool exhausted | Too many connections | solicitud=19 | pool=10/10
+2026-06-28 21:04:27,769 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:27] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:27,923 | ERROR | Connection pool exhausted | Too many connections | solicitud=20 | pool=10/10
+2026-06-28 21:04:27,923 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:27] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:28,078 | ERROR | Connection pool exhausted | Too many connections | solicitud=21 | pool=10/10
+2026-06-28 21:04:28,079 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:28] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:28,256 | ERROR | Connection pool exhausted | Too many connections | solicitud=22 | pool=10/10
+2026-06-28 21:04:28,256 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:28] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:28,410 | ERROR | Connection pool exhausted | Too many connections | solicitud=23 | pool=10/10
+2026-06-28 21:04:28,410 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:28] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:28,565 | ERROR | Connection pool exhausted | Too many connections | solicitud=24 | pool=10/10
+2026-06-28 21:04:28,566 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:28] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:28,730 | ERROR | Connection pool exhausted | Too many connections | solicitud=25 | pool=10/10
+2026-06-28 21:04:28,731 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:28] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:28,900 | ERROR | Connection pool exhausted | Too many connections | solicitud=26 | pool=10/10
+2026-06-28 21:04:28,901 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:28] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:29,071 | ERROR | Connection pool exhausted | Too many connections | solicitud=27 | pool=10/10
+2026-06-28 21:04:29,071 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:29] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:29,245 | ERROR | Connection pool exhausted | Too many connections | solicitud=28 | pool=10/10
+2026-06-28 21:04:29,246 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:29] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:29,415 | ERROR | Connection pool exhausted | Too many connections | solicitud=29 | pool=10/10
+2026-06-28 21:04:29,416 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:29] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:04:29,585 | ERROR | Connection pool exhausted | Too many connections | solicitud=30 | pool=10/10
+2026-06-28 21:04:29,585 | INFO | 127.0.0.1 - - [28/Jun/2026 21:04:29] "[35m[1mPOST /sensor HTTP/1.1[0m" 503 -
+2026-06-28 21:05:55,834 | INFO | 127.0.0.1 - - [28/Jun/2026 21:05:55] "GET /metrics HTTP/1.1" 200 -
+2026-06-28 21:05:55,899 | ERROR | Health check fallido | Connection pool exhausted | uso=100.0%
+2026-06-28 21:05:55,899 | INFO | 127.0.0.1 - - [28/Jun/2026 21:05:55] "[35m[1mGET /health HTTP/1.1[0m" 503 -

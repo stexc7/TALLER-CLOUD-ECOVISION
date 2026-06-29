@@ -1,0 +1,61 @@
+﻿fecha,solicitud,estado,codigo_http,latencia_ms,detalle
+2026-06-28T21:04:24,1,OK,201,33.26,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":1,""sensor_id"":""IOT-001"",""valor"":20.37,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:24,2,OK,201,10.05,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":2,""sensor_id"":""IOT-002"",""valor"":20.74,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:25,3,OK,201,31.07,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":3,""sensor_id"":""IOT-003"",""valor"":21.11,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:25,4,OK,201,22.25,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":4,""sensor_id"":""IOT-004"",""valor"":21.48,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:25,5,OK,201,10.09,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":5,""sensor_id"":""IOT-005"",""valor"":21.85,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:25,6,OK,201,8.41,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":6,""sensor_id"":""IOT-006"",""valor"":22.22,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:25,7,OK,201,9.79,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":7,""sensor_id"":""IOT-007"",""valor"":22.59,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:25,8,OK,201,32.01,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":8,""sensor_id"":""IOT-008"",""valor"":22.96,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:26,9,OK,201,22.46,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":9,""sensor_id"":""IOT-009"",""valor"":23.33,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:26,10,OK,201,21.7,"{""mensaje"":""Dato almacenado correctamente"",""pool_en_uso"":10,""sensor_id"":""IOT-010"",""valor"":23.7,""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:26,11,ERROR,503,16.14,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:26,12,ERROR,503,22.55,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:26,13,ERROR,503,21.61,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:26,14,ERROR,503,4.07,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:27,15,ERROR,503,5.01,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:27,16,ERROR,503,27.31,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:27,17,ERROR,503,23.82,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:27,18,ERROR,503,23.0,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:27,19,ERROR,503,21.13,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:27,20,ERROR,503,4.26,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:28,21,ERROR,503,5.35,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:28,22,ERROR,503,26.51,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:28,23,ERROR,503,3.91,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:28,24,ERROR,503,4.85,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:28,25,ERROR,503,14.77,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:28,26,ERROR,503,19.43,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:29,27,ERROR,503,20.48,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:29,28,ERROR,503,23.78,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:29,29,ERROR,503,18.82,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
+2026-06-28T21:04:29,30,ERROR,503,18.99,"{""detalle"":""Connection pool exhausted"",""error"":""Database connection timeout"",""version"":""2.0-fallida""}
+"
